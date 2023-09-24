@@ -8,7 +8,7 @@ function App() {
 
   const fileInputRef = useRef();
 
-  const url = 'https://i.pinimg.com/originals/16/46/24/1646243661201a0892cc4b1a64fcbacf.jpg';
+  const url = 'https://cdn3d.iconscout.com/3d/premium/thumb/file-sharing-5353214-4480052.png';
 
   useEffect(() => {
     const getImage = async () => {
